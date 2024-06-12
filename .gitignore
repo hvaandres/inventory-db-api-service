@@ -8,3 +8,7 @@
 # local env files
 .env*.local
 /env
+/env/bin
+/env/lib
+/env/include
+
