@@ -6,7 +6,7 @@ from datetime import datetime
 from db import CRUD
 
 app = FastAPI(
-    title="DGM Inventory API",
+    title="Standard User Endpoint - DGM Inventory API",
     description="API for UVU for the department of DGM, and the app is about an inventory system for the department. This is in general to manage standard users.",
     docs_url="/",
 )
